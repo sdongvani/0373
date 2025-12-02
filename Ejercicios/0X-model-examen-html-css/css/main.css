@@ -1,0 +1,25 @@
+/* Codi CSS */
+header {
+  display: flex;
+  background-color: antiquewhite;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+nav {
+  margin-left: 10px;
+  align-items: center;
+}
+
+.ICV {
+  margin-right: 10px;
+}
